@@ -8,14 +8,10 @@ Clean and preprocess a raw dataset with missing values, duplicates, and inconsis
 ## 🔧 Tools Used:
 - Microsoft Excel
 
----
-
 ## 📁 Dataset:
 - **Name:** Netflix Movies and TV Shows
 - **Total Rows:** 8,807
 - **Source:** Kaggle
-
----
 
 ## 🧹 Cleaning Steps Performed:
 
@@ -33,7 +29,6 @@ Clean and preprocess a raw dataset with missing values, duplicates, and inconsis
 - Cleaned column names to make them more uniform (e.g., lowercased, no special characters).
 - Dates were formatted to `DD-MM-YYYY`.
 
----
 
 ## 📌 Result:
 A cleaned version of the Netflix dataset ready for basic data analysis. All missing values were handled, duplicate rows removed, and key columns standardized for consistency.
